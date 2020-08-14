@@ -128,6 +128,12 @@ table 标签里只能有 thead/tbody/tfoot 这三个标签
     </tr>
   </tfoot>
 </table>
+```
+
+效果：
+![单表头表格](table-01.png)
+
+```html
 <!-- 横竖两表头表格 -->
 <table>
   <thead>
@@ -168,6 +174,9 @@ table 标签里只能有 thead/tbody/tfoot 这三个标签
   </tfoot>
 </table>
 ```
+
+效果：
+![横竖双表头表格](table-02.png)
 
 ### 相关样式 css 内容
 
